@@ -1,1 +1,1 @@
-# EpitopePrediction
+# Epitope Prediction
